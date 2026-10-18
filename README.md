@@ -176,7 +176,59 @@ A web-based library management application developed with Python and Streamlit, 
 </details>
 
 ---
+### 🏗️ Data Engineering
 
+[**Bee Haven – Azure Data Engineering Pipeline**](https://github.com/Mustafa-Al-Hamoud/Bee-haven)
+
+An end-to-end cloud data engineering project built with Microsoft Azure. The pipeline ingests beehive sensor data, archives raw files, transforms sensor measurements, enriches the data with weather information from the Bright Sky API, and generates a consolidated Parquet dataset in the Gold layer.
+
+**Technologies:**
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse Analytics">
+  <img src="https://img.shields.io/badge/ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge" alt="Parquet">
+</p>
+
+<details>
+<summary>💡 Key Features</summary>
+
+- Automated data ingestion and orchestration with Azure Data Factory.
+- Bronze, Silver, and Gold data layers.
+- Sensor data cleaning and transformation.
+- Weather data enrichment using the Bright Sky API.
+- Integration of sensor and weather datasets.
+- Final consolidated Parquet output.
+
+</details>### 🏗️ Data Engineering
+
+[**Bee Haven – Azure Data Engineering Pipeline**](https://github.com/Mustafa-Al-Hamoud/Bee-haven)
+
+An end-to-end cloud data engineering project built with Microsoft Azure. The pipeline ingests beehive sensor data, archives raw files, transforms sensor measurements, enriches the data with weather information from the Bright Sky API, and generates a consolidated Parquet dataset in the Gold layer.
+
+**Technologies:**
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse Analytics">
+  <img src="https://img.shields.io/badge/ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADLS Gen2">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge" alt="Parquet">
+</p>
+
+<details>
+<summary>💡 Key Features</summary>
+
+- Automated data ingestion and orchestration with Azure Data Factory.
+- Bronze, Silver, and Gold data layers.
+- Sensor data cleaning and transformation.
+- Weather data enrichment using the Bright Sky API.
+- Integration of sensor and weather datasets.
+- Final consolidated Parquet output.
+
+</details>
 ## 🔗 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-al-hamoud-55953a396/)
