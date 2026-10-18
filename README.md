@@ -39,6 +39,33 @@ My projects focus on transforming data into useful insights, building interactiv
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4B5563?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-4B5563?style=for-the-badge)
 
+### Cloud Computing & Azure
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory">
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse Analytics">
+  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob Storage">
+  <img src="https://img.shields.io/badge/ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Lake Storage Gen2">
+</p>
+
+### Data Engineering & Processing
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Parquet">
+  <img src="https://img.shields.io/badge/Data_Pipelines-4051B5?style=for-the-badge" alt="Data Pipelines">
+  <img src="https://img.shields.io/badge/ETL_&_Data_Integration-00897B?style=for-the-badge" alt="ETL and Data Integration">
+</p>
+
+### APIs & Data Integration
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" alt="REST API">
+  <img src="https://img.shields.io/badge/Bright_Sky_Weather_API-4CAF50?style=for-the-badge" alt="Bright Sky Weather API">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+</p>
 ### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
