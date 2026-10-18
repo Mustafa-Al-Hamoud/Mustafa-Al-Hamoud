@@ -202,7 +202,7 @@ An end-to-end cloud data engineering project built with Microsoft Azure. The pip
 - Integration of sensor and weather datasets.
 - Final consolidated Parquet output.
 
-</details>### 🏗️ Data Engineering
+</details>
 
 ## 🔗 Connect with me
 
