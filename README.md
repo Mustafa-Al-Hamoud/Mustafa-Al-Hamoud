@@ -8,6 +8,17 @@ I work with Python, Pandas, SQL, Tableau, BigQuery, Looker Studio, data visualiz
 
 My projects focus on transforming data into useful insights, building interactive dashboards, and developing practical data-driven applications.
 
+---
+
+## 🎓 Certificates & Credentials
+
+| Certificate / Document | Issuer | Date |
+|---|---|---|
+| [Microsoft Certified: Azure Data Fundamentals (DP-900)](certificates/Microsoft_Certified_Azure_Data_Fundamentals_DP-900.pdf) | Microsoft | October 19, 2026 |
+| [PCEP – Certified Entry-Level Python Programmer](certificates/PCEP_Certified_Entry-Level_Python_Programmer.pdf) | Python Institute | August 10, 2026 |
+| [telc Deutsch C1 Hochschule](certificates/telc_Deutsch_C1_Hochschule.pdf) | telc | October 13, 2025 |
+| [Bachelor's Degree – Software Engineering](certificates/Bachelor_Degree_Software_Engineering.pdf) | University of Aleppo | May 28, 2013 |
+| [Authorization to Use the Professional Title "Ingenieur"](certificates/Authorization_to_Use_Professional_Title_Engineer.pdf) | Bezirksregierung Münster | April 2, 2025 |
 ## 🛠️ Tech Stack
 
 ### Programming Languages & Libraries
